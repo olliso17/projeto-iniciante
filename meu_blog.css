@@ -1,0 +1,17 @@
+.titulo-principal{
+    padding-left: 15px;
+    background-color: rgb(129, 171, 219);
+    font-size: 40px
+}
+#meu-slogan{
+    padding-left: 15px;
+    display: inline-block;
+    width: 100%;
+    
+}
+.texto{
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(129, 171, 219);
+    font-size: 30px
+}
